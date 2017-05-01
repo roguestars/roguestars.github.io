@@ -1,2 +1,2 @@
 # roguestars.github.io
-RT campaign
+Rogue Trader campaign set in Koronus Expanse 
